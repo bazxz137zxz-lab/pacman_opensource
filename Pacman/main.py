@@ -1,6 +1,6 @@
 """
 Pacman game
-Author
+Author: Đinh Nguyễn Bảo Anh
 """
 
 import pygame
